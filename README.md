@@ -23,7 +23,7 @@
 
  
 **For Backend**
- 1. `git clone https://github.com/MohitSojitra/e-commerce-store.git`
+ 1. `git clone https://github.com/sridhar-code-3004/mern-stack-E-COMMERCE.git`
  2. `cd e-comerce-backend`
  3. `npm i`
  4. `npm run data:import`
